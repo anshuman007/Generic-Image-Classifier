@@ -30,8 +30,8 @@ TRAIN IMAGES
 2. Add images of a particular category to its respective subfolder.
 
 Structure Example:
+
 	TrainSet
-	|
 	|- Sub Category 1
 		|- Image 1.1
 		|- Image 1.2
