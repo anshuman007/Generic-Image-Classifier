@@ -1,5 +1,5 @@
 # ImageClassifier
-Generic Image Classifier that can be re-purposed and retrained for a large number of use cases.
+A Generic multi-class Image Classifier that can be re-purposed and retrained for a large number of use cases.
 The example model builds on the ImageNet model to train data. It can be modified to use other models as well.
 
 This is a general purpose image classifier that can be trained on any image set.
